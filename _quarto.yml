@@ -23,9 +23,8 @@ website:
 
 format:
   html:
-    theme:
-      dark: darkly
-    #highlight: zenburn
+    theme: lux
+    highlight: zenburn
     css: styles.css
     toc: FALSE
 
